@@ -5,8 +5,13 @@ DEFAULT_CONFIG = {
     "ClearScreen": True,
     "CaseSensitiveSearch": False,
     "ListSeparator": ", ",
-    "TagPrefix": "",
-    "CategoriesFolder": "Categories"
+    "CategoriesFolder": "Categories",
+    "ItemsFolder": "Items",
+    "Data": ".Data",
+    "FormatFileName": "Format.md",
+    "FormatFile": "Format.md",
+    "ParametersFileName": "Parameters.json",
+    "ParametersFile": "Parameters.json"
 }
 
 def LoadConfig():

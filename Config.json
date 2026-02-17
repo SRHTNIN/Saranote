@@ -14,5 +14,6 @@
 
     "Editor": null,
     "ClearScreen": true,
-    "CaseSensitiveSearch": false
+    "CaseSensitiveSearch": false,
+    "ListSeperator": ", "
 }
