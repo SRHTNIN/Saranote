@@ -1,11 +1,3 @@
-# %Title%
+# %Navn%
 
-%Appearance%
-
----------------
-
-%Description%
-
----------------
-
-%Tags%
+%Beskrivelse%

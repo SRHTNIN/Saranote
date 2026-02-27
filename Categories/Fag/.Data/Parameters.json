@@ -1,6 +1,7 @@
 {
     "Parameters": [
         "Navn",
-        "Beskrivelse"
+        "HovedLaerer",
+        "Dager"
     ]
 }
