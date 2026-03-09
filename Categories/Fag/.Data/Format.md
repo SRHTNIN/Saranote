@@ -1,5 +1,0 @@
-# %Navn%
-
-## %HovedLaerer%
-
-%Dager%

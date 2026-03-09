@@ -1,5 +1,0 @@
-# Norsk
-
-## Mathias
-
-Mandag, Tirsdag
